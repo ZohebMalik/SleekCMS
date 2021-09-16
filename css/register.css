@@ -1,0 +1,100 @@
+.error {
+
+    border-radius: 3px;
+
+    color: #FFF;
+
+    text-shadow: #AC4131 1px 1px;
+
+    background: #e66c6c;
+
+    height: 24px;
+
+    width: 870px;
+
+    margin: 0 auto 6px auto;
+
+    padding: 9px 0 0 10px;
+
+}
+
+
+
+input.login-field {
+
+    border-radius: 3px;
+
+    border: 1px #E0E0E0;
+
+    background: #EBEBEB;
+
+    height: 16px;
+
+    width: 94%;
+
+    padding: 6px;
+
+margin: 6px 0 0 10px;
+
+}
+
+
+
+input#login {		color:aaaaaa;
+
+border-radius: 3px;
+
+    border: 1px #8c8c8c;
+
+    background: #e4e4e4;
+
+    height: 30px;
+
+    width: 76px;
+
+    padding: 6px;
+
+    margin: 0 0 0 10px;
+
+    cursor: pointer;
+
+    border-bottom: 2px solid #1b1b1b;
+
+    border-color: #cdcdcd;
+
+    border-width: 0 1px 4px 1px;
+
+    font-size: 12px;
+
+    font-weight: bold;
+
+    text-transform: uppercase;
+
+}
+
+
+
+input#login:hover {
+
+border-radius: 3px;
+
+    border: 1px #8c8c8c;
+
+    background: #e4e4e4;
+
+    height: 29px;
+
+    width: 76px;
+
+    padding: 6px;
+
+    margin: 0 0 0 10px;
+
+    cursor: pointer;
+
+    border-bottom: 2px solid #1b1b1b;
+
+    border-color: #cdcdcd;
+
+}
+

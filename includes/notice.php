@@ -1,0 +1,1 @@
+<div id="error"><b>{hotelname} Notice</b> - Welcome (back) to {hotelname} Hotel! If you wish to contact anyone in our community without having to enter the client then please feel free to join our Discord Chat.</div>
